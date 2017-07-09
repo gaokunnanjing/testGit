@@ -9,6 +9,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		//gk写了一行注释
 		//gk有写一行
+		//gk写了三行
 	}
 
 }
